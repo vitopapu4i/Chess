@@ -1,0 +1,7 @@
+C:\Users\gaish\OneDrive\Рабочий стол\labirint\ConsoleGame2\bin\Debug\ConsoleGame2.exe.config
+C:\Users\gaish\OneDrive\Рабочий стол\labirint\ConsoleGame2\bin\Debug\ConsoleGame2.exe
+C:\Users\gaish\OneDrive\Рабочий стол\labirint\ConsoleGame2\bin\Debug\ConsoleGame2.pdb
+C:\Users\gaish\OneDrive\Рабочий стол\labirint\ConsoleGame2\obj\Debug\ConsoleGame2.csproj.AssemblyReference.cache
+C:\Users\gaish\OneDrive\Рабочий стол\labirint\ConsoleGame2\obj\Debug\ConsoleGame2.csproj.CoreCompileInputs.cache
+C:\Users\gaish\OneDrive\Рабочий стол\labirint\ConsoleGame2\obj\Debug\ConsoleGame2.exe
+C:\Users\gaish\OneDrive\Рабочий стол\labirint\ConsoleGame2\obj\Debug\ConsoleGame2.pdb
